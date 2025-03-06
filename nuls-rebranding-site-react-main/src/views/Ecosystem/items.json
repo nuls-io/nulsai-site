@@ -1,0 +1,317 @@
+[
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS AI Digital Identity",
+    "desc": "The First AI Digital Identity Protocol with Passive Income.",
+    "link": "https://id.nulsai.com/",
+    "type": ["AI"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NAI NFT",
+    "desc": "The world's first NFT liquidity protocol combined with AI Agent.",
+    "link": "https://www.nainft.com",
+    "type": ["AI"]
+  },
+  {
+    "src": "/ecosystem_files/aiflow.png",
+    "name": "AIFlow",
+    "desc": "Open-source framework for BNB Chain. Deploy scalable, secure AI agents with memory, modularity, multi-modal tasks, and seamless blockchain integration.",
+    "link": "https://aiflow.guru/",
+    "type": ["AI"]
+  },
+  {
+    "src": "/ecosystem_files/LumiRing.png",
+    "name": "LumiRing",
+    "desc": "LumiRing is a smart ring that combines fashionable design with cryptocurrency technology. By wearing it, you can not only earn continuous profits but also manage and analyze your data through AI, helping you stay healthier.",
+    "link": "http://lumiringai.com/",
+    "type": ["AI"]
+  },
+  {
+    "src": "/ecosystem_files/Coincreate.svg",
+    "name": "Coincreate",
+    "desc": "Coincreate are committed to providing the best blockchain solutions for everyone. Our mission is to simplify blockchain creation and management.",
+    "link": "https://coincreate.io/EnulsChain/createtoken",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Desktop Wallet",
+    "desc": "NULS Desktop wallet is developed by the NULS core team for users to operate within the NULS ecosystem on desktop devices.",
+    "link": "https://github.com/nuls-io/nuls-v2/releases",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/Nabox.svg",
+    "name": "Nabox Wallet",
+    "desc": "Nabox is the Multi-Chain DID wallet to Web3, supporting NULS, ENULS, and the most mainstream EVM blockchains, featured in aggregation, cross-chain, swap, and more.",
+    "link": "https://nabox.io/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Multi-signature",
+    "desc": "NULS Multi-sig is a digital signature that allows multiple users to sign a single transaction within the NULS ecosystem.",
+    "link": "https://docs.nuls.io/Guide/g_multiSignature_dapp_Guide.html ",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/MetaMask.svg",
+    "name": "MetaMask",
+    "desc": "MetaMask is the leading self-custodial wallet. The safe and simple way to access blockchain applications and web3. Trusted by millions of users worldwide.",
+    "link": "https://metamask.io/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/ONTOWallet.svg",
+    "name": "ONTO Wallet",
+    "desc": "An all-in-one solution for Web3 to manage identity, data, and assets, with 1M+ users, 1,000+ supported dApps across 70+ blockchains.",
+    "link": "https://onto.app/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/TokenPocket.svg",
+    "name": "Token Pocket",
+    "desc": "Easy and safe to buy, store, send, swap tokens and collect NFTs. Trusted by 20+ millions users from 200+ countries and regions.",
+    "link": "https://www.tokenpocket.pro",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/MathWallet.svg",
+    "name": "Math Wallet",
+    "desc": "MathWallet is a multi-platform (mobile/desktop/hardware) universal crypto wallet that enables token storage of 150+ blockchains.",
+    "link": "https://www.mathwallet.org/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/HyperPay.svg",
+    "name": "HyperPay",
+    "desc": "HyperPay Wallet is a multi-chain cryptocurrency wallet that offers a wide range of services and features for managing digital assets.",
+    "link": "https://www.hyperpay.tech",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/FoxWallet.svg",
+    "name": "Fox Wallet",
+    "desc": "FoxWallet is a multi-chain web3 wallet where users can access a wide range of dApps, manage digital assets and interact with various blockchain networks.",
+    "link": "https://foxwallet.com/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/HebeWallet.svg",
+    "name": "Hebe Wallet",
+    "desc": "Secure cryptocurrency wallet for Ethereum Classic, Bitcoin, Ethereum, Ripple, Litecoin, Stellar, Nxt, Ardor and over 100+ main chains.",
+    "link": "https://hebe.cc/",
+    "type": ["Wallets"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS POCM",
+    "desc": "Stake your NULS with the project you like and start earning project tokens. Your NULS tokens never leave your wallet, and you can turn your PC off while you earn.",
+    "link": "https://pocm.nuls.io/",
+    "type": ["DeFi", "Staking"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Stake",
+    "desc": "Delegate NULS on NULS main net to protect the network while receiving consensus rewards.",
+    "link": "https://stake.nuls.io/",
+    "type": ["DeFi", "Staking"]
+  },
+  {
+    "src": "/ecosystem_files/Swapbox.svg",
+    "name": "SwapBox",
+    "desc": "SwapBox aggregator aggregates the mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.",
+    "link": "https://swapbox.nabox.io/",
+    "type": ["DeFi"]
+  },
+  {
+    "src": "/ecosystem_files/NERVE.svg",
+    "name": "NerveSwap",
+    "desc": "NerveSwap is our in-house AMM solution providing secure, fast, and cheap atomic transactions.",
+    "link": "https://nerve.network/swap",
+    "type": ["DeFi"]
+  },
+  {
+    "src": "/ecosystem_files/Nulswap.svg",
+    "name": "Nulswap",
+    "desc": "Nulswap is a decentralized exchange (DEX) and Liquidity Staking Derivatives (LSD) protocol built on the NULS blockchain.",
+    "link": "https://nulswap.com/",
+    "type": ["DeFi", "Staking"]
+  },
+  {
+    "src": "/ecosystem_files/NERVE.svg",
+    "name": "NerveBridge",
+    "desc": "NerveBridge is a multi-chain asset cross-chain protocol that supports over 30 blockchains and 300+ tokens.",
+    "link": "https://bridge.nerve.network/",
+    "type": ["DeFi"]
+  },
+  {
+    "src": "/ecosystem_files/PheasantSwap.svg",
+    "name": "PheasantSwap",
+    "desc": "PheasantSwap is the first decentralized exchange built on ENULS. It also supports Linea and Base blockchain.",
+    "link": "https://pheasantswap.com/",
+    "type": ["DeFi"]
+  },
+  {
+    "src": "/ecosystem_files/WaterFinance.svg",
+    "name": "Watertiger Finance",
+    "desc": "WaterTiger was founded to foster the growth of NULS DeFi ecosystem by enabling users to generate boosted yields on their aNswap or Nulswap LP deposits.",
+    "link": "https://watertiger.finance/",
+    "type": ["DeFi", "Staking"]
+  },
+  {
+    "src": "/ecosystem_files/NERVE.svg",
+    "name": "NerveFarm",
+    "desc": "NerveSwap is our in-house AMM solution providing secure, fast, and cheap atomic transactions. ",
+    "link": "https://nerve.network/farm",
+    "type": ["Staking"]
+  },
+  {
+    "src": "/ecosystem_files/Swapbox.svg",
+    "name": "SwapBox Farm",
+    "desc": "SwapBox offers yielding solutions for the NULS token where users can deposit NULS LP to earn rewards.",
+    "link": "https://swapbox.nabox.io/l2farm",
+    "type": ["Staking"]
+  },
+  {
+    "src": "/ecosystem_files/MyCointainer.svg",
+    "name": "MyCointainer",
+    "desc": "MyCointainer is an all-in-one licensed platform that has been running since 2018, offering a variety of ways to earn crypto.",
+    "link": "https://www.mycointainer.com/",
+    "type": ["Staking"]
+  },
+  {
+    "src": "/ecosystem_files/aleph.svg",
+    "name": "aleph.im",
+    "desc": "Incubated on NULS POCM platform, aleph.im is an open-source off-chain P2P network that decentralized key-value store, file storage, function execution and virtual machine provisioning.",
+    "link": "https://aleph.im/ ",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Scan",
+    "desc": "NULS Scan provides functionalities such as transaction tracking, block information, address lookup, smart contract interaction, token information, network statistics, etc.",
+    "link": "https://nulscan.io/",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/Wormhole3.svg",
+    "name": "Wormhole3",
+    "desc": "Wormhole3 is a web3 application governed by decentralized code and protocol.",
+    "link": "https://alpha.wormhole3.io/square",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Message Crypt",
+    "desc": "Secure your message with NULS Message Crypt dApp, verify important information, or identify the ownership of a blockchain account.",
+    "link": "https://github.com/nuls-io/nuls-tool-message-sign",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/NULS.svg",
+    "name": "NULS Forum",
+    "desc": "Discover the latest technical and community updates, events, and governance on NULS forum.",
+    "link": "https://forum.nuls.io/",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/ENULSScan.svg",
+    "name": "ENULS Scan",
+    "desc": "ENULS Scan is a blockchain explorer specifically designed for the ENULS network.",
+    "link": "https://evmscan.nuls.io/",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/Nomis.svg",
+    "name": "Nomis",
+    "desc": "Nomis is onchain Identity Protocol that enables users to leverage their onchain Reputation and get personalized web3 experiences.",
+    "link": "https://nomis.cc/",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/IvyMaker.svg",
+    "name": "IvyMaker",
+    "desc": "An NFT creation and incentive platform designed for everyone - artists, creators, fans, and beyond.",
+    "link": "https://ivymaker.io/",
+    "type": ["NFTs"]
+  },
+  {
+    "src": "/ecosystem_files/NiftyFuse.svg",
+    "name": "NiftyFuse",
+    "desc": "NiftyFuse is a decentralized protocol that makes NFTs deflationary via a mechanism that allows people to fuse two NFTs into 1",
+    "link": "https://niftyfuse.pt/",
+    "type": ["NFTs"]
+  },
+  {
+    "src": "/ecosystem_files/Suisse.svg",
+    "name": "Suisse Blockchain",
+    "desc": "The first regulated web3 blockchain startup accelerator based in the Swiss Crypto Valley, built on ENULS, serving the ecosystem.",
+    "link": "https://suisseblockchain.io/#home",
+    "type": ["LaunchPad"]
+  },
+  {
+    "src": "/ecosystem_files/NERC20.svg",
+    "name": "NERC20",
+    "desc": "NERC20 is a new generation of ERC20 fair launch platform. Rapid deployment of fair issuance in EVM smart contracts, compatible with ENULS network.",
+    "link": "https://nerc20.cash/",
+    "type": ["LaunchPad"]
+  },
+  {
+    "src": "/ecosystem_files/DAOStarter.svg",
+    "name": "DAO Starter",
+    "desc": "DAOStarter is a crypto incubator serving for Web3.0, building on. Multi-Chain.",
+    "link": "https://www.daostarter.pro/#/index",
+    "type": ["LaunchPad"]
+  },
+  {
+    "src": "/ecosystem_files/PlaySky.svg",
+    "name": "PlaySky",
+    "desc": "PlaySky is a new generation of LaunchPad that contributes to its community.",
+    "link": "https://playsky.io/",
+    "type": ["LaunchPad"]
+  },
+  {
+    "src": "/ecosystem_files/Fomoin.svg",
+    "name": "Fomoin",
+    "desc": "Fomoin is a digital marketing solution and one-stop incubation engine for #blockchain startups.",
+    "link": "https://fomoin.finance/#/",
+    "type": ["LaunchPad"]
+  },
+  {
+    "src": "/ecosystem_files/Heroes.svg",
+    "name": "Heros Battle Arena",
+    "desc": "A free, play&fun multichain game inspired by the legendary 'Heroes Might and Magic', featuring AI, cash rewards & NFTs through strategic battles or lucky draws.",
+    "link": "https://heroesbattlearena.online/",
+    "type": ["Gaming"]
+  },
+  {
+    "src": "/ecosystem_files/TIPTAG.svg",
+    "name": "TipTag",
+    "desc": "A Pump social token distribution game",
+    "link": "https://enuls.tiptag.social/",
+    "type": ["Gaming"]
+  },
+  {
+    "src": "/ecosystem_files/NFTS2ME.svg",
+    "name": "NFTs2Me",
+    "desc": "NFTs2Me is the most powerful and intuitive NFT creation tool, allowing you to launch your NFT project and build a new world on web3. ",
+    "link": "https://nfts2me.com/",
+    "type": ["NFTs"]
+  },
+  {
+    "src": "/ecosystem_files/Conft.svg",
+    "name": "coNFT",
+    "desc": "Each completed task on various chains grants you a Mystery Box.By collecting boxes you are ensuring eligibility to receive rewards from conft.",
+    "link": "https://conft.app/",
+    "type": ["NFTs"]
+  },
+  {
+    "src": "/ecosystem_files/Bridgers.svg",
+    "name": "Bridgers",
+    "desc": "Fast, transparent, and diverse cross-chain protocols, seamlessly connecting multiple blockchains and assets, with comprehensive technical support, defining a new generation of decentralized Web3 interactions.",
+    "link": "https://bridgers.xyz/",
+    "type": ["DeFi"]
+  }
+]

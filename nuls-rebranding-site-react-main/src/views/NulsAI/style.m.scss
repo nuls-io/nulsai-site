@@ -1,0 +1,32 @@
+#nulsai .building {
+  flex-direction: column-reverse;
+}
+#nulsai .building .desc {
+  width: 100%;
+  font-size: 18px;
+}
+#nulsai .building .link {
+  width: 100%;
+  margin-top: 24px;
+}
+#nulsai .features .feature {
+  display: block;
+}
+#nulsai .features .feature .info {
+  width: auto;
+}
+#nulsai .features .feature .info .title {
+
+}
+#nulsai .features .feature .info .desc {
+  font-size: 14px;
+  line-height: 21px;
+}
+#nulsai .features .feature .info .list {
+  line-height: 21px;
+  margin-bottom: 40px;
+}
+#nulsai .features .feature .img {
+  width: auto;
+  display: none;
+}

@@ -1,0 +1,8 @@
+import { timeNumber } from '../utils/time'
+
+export const MAX_ETH_NUM =
+  '115792089237316195423570985008687907853269984665640564039457584007913129639935'
+export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000'
+export const TX_ALERT_SUCCESS_TIME = timeNumber.second * 3
+export const TX_ALERT_FAIL_TIME = 0
+export const TX_ALERT_WARN_TIME = timeNumber.second * 3

@@ -1,0 +1,50 @@
+.markdown-render-area {
+  & > * {
+    margin:14px 0 !important;
+    &:last-child {
+      margin-bottom: 0 !important;
+    }
+    &:first-child{
+      margin-top: 0 !important;
+    }
+  }
+  ul{
+    padding-left: 14px !important;
+  }
+  table {
+    width: 100%;
+    border: #000 solid 2px;
+    border-collapse: collapse;
+
+    td,
+    th {
+      border: #000 solid 1px;
+      padding: 8px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    tr:hover {
+      background-color: #ddd;
+    }
+
+    
+    thead {
+      tr {
+        th {
+          font-size: 18px;
+          font-weight: bold;
+          padding-top: 12px;
+          padding-bottom: 12px;
+          background-color: #ddd;
+        }
+      }
+    }
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}

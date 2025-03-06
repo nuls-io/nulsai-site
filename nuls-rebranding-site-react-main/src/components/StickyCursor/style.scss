@@ -1,0 +1,44 @@
+.sticky-cursor {
+  z-index: 99999;
+  
+  &.large-point {
+    backdrop-filter: invert(1);
+    mix-blend-mode: difference;
+  }
+}
+
+
+a[data-sticky] {
+  display: inline-block;
+  color: #000;
+
+  &:hover {
+    color: #000;
+  }
+  &[data-sticky-dark] {
+    color: #fff;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+button[data-sticky] {
+  cursor: none;
+
+  &[data-sticky-dark] {
+    color: #fff;
+    border-color: #fff;
+
+    &:hover {
+      color: #000;
+      background-color: #fff;
+    }
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

@@ -1,0 +1,289 @@
+{
+  "trans": {
+    "copy": "Click to copy",
+    "common": {
+      "wechat": "Wechat",
+      "email": "Email",
+      "phone": "Phone",
+      "order_state_created": "Waiting for Confirmation",
+      "order_state_paying": "Waiting for Payment",
+      "order_state_paid": "Processing",
+      "order_state_success": "Completed",
+      "order_state_paid_failed": "Payment Failed",
+      "order_state_canceled": "Canceled",
+      "comfirm": "Confirm",
+      "auto_delivery": "Auto Delivery",
+      "chains": {
+        "sol": "Solana"
+      }
+    },
+    "header": {
+      "menu": {
+        "ai": "Solutions",
+        "use": "Use NAI",
+        "develop": "Developers",
+        "eco": "Ecosystem",
+        "community": "Community"
+      },
+      "develop": {
+        "github": "GitHub",
+        "doc": "Documentation",
+        "runnode": "Run A Node",
+        "runnodedesc": "NULS is an open-source, enterprise-grade, adaptive blockchain platform that offers fast-track business solutions for developers.",
+        "doccenter": "Documentation Center",
+        "doccenterdesc": "Vist our comprehensive documentation to learn more about the platform and its features.",
+        "nuls": "Build on NULS",
+        "nulsdesc": "Join the thriving ecosystem and grow with NULS. Be a builder using our dev-friendly tools. Deploying projects on NULS, and receiving ecosystem grant from the NULS foundation.",
+        "enuls": "Build on ENULS",
+        "enulsdesc": "ENULS is the parallel chain of NULS, built on top of the NULS ChainBox solution. Fully compatible with EVM and Web3 API interfaces and utilizes NULS as the primary asset within its network."
+      }
+    },
+    "hero": {
+      "desc": "Bringing billions of users to web3 AI in the future",
+      "bt1": "Start Building",
+      "bt2": "Explore Ecosystem",
+      "t1": "The Global AI Consumer Layer",
+      "t2": "Driving the Future of AI for Billions of Users Since 2017",
+      "available": "Available on the World's Largest Exchanges"
+    },
+    "whatis": {
+      "desc": "NULS Al is a modular blockchain infrastructure that is highly adaptable to Al applications. NULS Al adopts a microservice architecture, enabling developers to efficiently build customized blockchains using ChainBox and its open-source code modules."
+    },
+    "aipower": {
+      "line1": "The Features of NULS AI",
+      "line2": "Explore a modular blockchain infrastructure that is highly adaptable to AI applications",
+      "learn": "Learn More",
+      "card1": {
+        "title": "Microservice and Modular Architecture",
+        "description": "The use of microservices and modular structure allows developers to flexibly expand application modules."
+      },
+      "card2": {
+        "title": "Highly Adaptable to AI Applications",
+        "description": "Provides a library of pre-trained AI models and toolkits to enable developers to quickly deploy complex AI Agents without starting from scratch."
+      },
+      "card3": {
+        "title": "Multi-Chain and Cross-Chain Interaction",
+        "description": "Supported Cross-Chain interaction of 40+ blockchains, connects mainstream assets to the NULS network, and builds an ecosystem DApp more conveniently."
+      },
+      "card4": {
+        "title": "NULS JVM(NJVM) Easy to Build",
+        "description": "The largest group of JAVA developers to get started easily. No need to learn new programming skills, you can even use AI to quickly create your smart contract code."
+      }
+    },
+    "stats": {
+      "title": "Chain Statistics"
+    },
+    "features": {
+      "pad1": {
+        "title": "A Blockchain for\nEndless AI Innovation",
+        "b1": {
+          "title": "Flexible NULS POC Consensus",
+          "description": "The NULS POC consensus mechanism uses the credit Index and equity as the incentive standard.  It maintains the decentralization of POW consensus while absorbing the efficiency advantages of POS and DPOS consensus."
+        },
+        "b2": {
+          "title": "AI Agent Service Module",
+          "description": "Provides a library of pre-trained AI models and toolkits to enable developers to quickly deploy complex AI Agents without starting from scratch."
+        },
+        "b3": {
+          "title": "Decentralized Data and Storage",
+          "description": "Leveraging technologies like IPFS to store data across multiple nodes, offering high elasticity and scalability."
+        },
+        "b4": {
+          "title": "Privacy-Preserving AI",
+          "description": "Ensures full lifecycle encryption of data, safeguarding its security during training and decision-making processes."
+        }
+      }
+    },
+    "roadmap": {
+      "title": "Roadmap"
+    },
+    "backers": {
+      "title": "",
+      "listed": "Listed On",
+      "support": "Supported and Backed by",
+      "more": "Show More Investors and Partners",
+      "buy": "Buy",
+      "stake": "Stake"
+    },
+    "news": {
+      "title": "Latest News"
+    },
+    "contact": {
+      "description": "Receive occasional updates about the NULS AI network and our latest innovations",
+      "signup": "Subscribe",
+      "email": "Email Address"
+    },
+    "ecosystem": {
+      "title": "Ecosystem",
+      "learn":"Learn More"
+    },
+    "community": {
+      "title": "Participation\n& Governance",
+      "governance":"Governance",
+      "desc": "The community governance tool is a decentralized product based on the NAI smart contract. This tool enables each NAI holder to exercise their voting rights and actively participate in decision-making processes that drive the development and growth of the NAI community, with the goal of advancing the decentralized AI revolution.",
+      "whatgreat": "What Makes NAI Great For Developers?",
+      "great": "The NULS Community Council is a member organization composed of NULS holders who execute the Foundation Management Regulations on behalf of the NULS Foundation and NULS global community. The Council is managed by Councilors who represent the interests of the global community and promote community advancement and growth across the world.",
+      "feature1": {
+        "title": "Voting Rights",
+        "desc": "Every NAI token holder can exercise their right to vote. Every 1 NAI is equal to 1 vote. Community members should fully understand the operating mechanism of the NAI community, Council, proposals, rules, etc. and actively participate in the decentralized governance process of NAI. Voting is crucial to the development of NAI, so please vote often and responsibly.",
+        "button": "Voting Guidelines"
+      },
+      "feature2": {
+        "title": "Proposals",
+        "desc": "NAI is an open ecosystem, we eagerly welcome visionary builders and creative minds to help foster the ecosystem's growth. Whether you require financial support from the NAI Foundation or wish to become a part of a team, you can submit your proposals on the forum to get started.",
+        "button": "Write Proposals"
+      },
+      "feature3": {
+        "title": "Voting",
+        "desc": "The community voting tool is a decentralized product based on the NAI smart contract. The tool enables each NAI holder to exercise their voting rights and participate in the NAI community development and growth decision-making process.",
+        "button": "Vote Now"
+      },
+      "councillors": "NAI Teams",
+      "councillorsdesc": "NULS ambassadors focus on improving the influence of NULS and the ecosystem around the world. Ambassadors are leaders in community development and are voted by the NULS community to organize quarterly elections. Becoming a NULS ambassador by starting to write an ambassador proposal in the NULS forum, the community will evaluate your strengths, discuss, and vote for your proposal."
+    },
+    "nulsai": {
+      "title": "Solutions",
+      "everything": "Everything for\ndecentralized AI",
+      "coming": "Coming Soon",
+      "ai": {
+        "0": {
+          "title": "Build AI Agent",
+          "subtitle": "Build an AI Agent to do what you want",
+          "desc": "Provides a library of pre-trained AI models and toolkits to enable developers to quickly deploy complex AI Agents without starting from scratch."
+        },
+        "1": {
+          "title": "AI Training",
+          "subtitle": "Access AI Identity to help AI training",
+          "desc": "Access AI Identity to help AI training, you can provide data feeding for some AI models and contribute to them. It can also be bound to the AI identity and become a valuable digital asset."
+        },
+        "2": {
+          "title": "Edge Computing",
+          "subtitle": "Decentralized AI Node provides computing power for the AI model",
+          "desc": "AI Nodes contribute computing resources to the AI Models to earn rewards. Register as a Node and run the AI Node program to access the computing network."
+        }
+      },
+      "build": {
+        "title": "Build Blockchain\nWith NULS AI",
+        "0": {
+          "title": "Build Chain",
+          "subtitle": "Build customized blockchains using ChainBox and its open-source code modules",
+          "desc": "Use ChainBox to build a new Chain or BTC Layer2 network, and you can define one or more assets as the transaction fee of the network. For example, you can use BTC, ETH, NULS or your own coin as the gas fee for any parallel chains created by ChainBox.",
+          "link": "Learn More",
+          "linkUrl": "https://docs.nuls.io/Docs/c_chain_box.html"
+        },
+        "1": {
+          "title": "Build DApp",
+          "subtitle": "Use NJVM to build your DApps",
+          "desc": "Use the NULS JAVA Virtual Machine (NJVM), developers can easily create smart contracts and DApps on the platform.",
+          "link": "Learn More",
+          "linkUrl": "https://docs.nuls.io/Docs/s_manual.html#_1-introduction"
+        }
+      },
+      "cross": {
+        "title": "Cross-chain Supported",
+        "0": {
+          "title": "NerveNetwork",
+          "subtitle": "Connect 40+ blockchains assets with the NerveNetwork relay network",
+          "desc": "NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for the DeFi ecosystem.",
+          "link": "Learn More",
+          "linkUrl": "https://nerve.network/info"
+        },
+        "1": {
+          "title": "BTC Layer2",
+          "subtitle": "Layer2 extension network of Bitcoin",
+          "desc": "NULS AI is a Layer1 blockchain and also a Layer2 extension network of Bitcoin. The NULS AI blockchain interacts with NULS AI heterogeneous blockchains through the NerveNetwork relay network.",
+          "link": "Learn More",
+          "linkUrl": "https://nulscan.io/asset/9-787"
+        },
+        "2": {
+          "title": "Bridge BTC/ETH to NULS AI",
+          "subtitle": "With SwapBox",
+          "desc": "Within the NULS AI network, BTC/ETH is used as the gas fee for sending transactions and processing smart contracts. Nodes and Stakers of the NULS AI network will receive BTC/ETH as network rewards.",
+          "link": "Use SwapBox",
+          "linkUrl": "https://swapbox.io/bridge"
+        }
+      },
+
+      "features": "Features",
+      "f1": {
+        "title": "AI Runtime Aggregation",
+        "desc": "Our platform aggregates AI models from across the entire network, enabling seamless access to a wide range of AI services.This aggregation not only improves the efficiency of AI task execution but also ensures that developers have access to the latest and most advanced models without worrying about compatibility issues.",
+        "list": "Seamless Integration: Easily integrate and execute AI models from different providers, all within the same environment.|Scalability: As the demand for AI services grows, the platform ensures scalability, supporting a wide range of models, including custom-built ones.|Optimized Performance: Through intelligent orchestration, the system automatically selects the most efficient models to execute tasks in real-time, improving speed and efficiency."
+      },
+      "f2": {
+        "title": "Fully Compatible AI Agent Runtime Environment",
+        "desc": "Our blockchain provides a fully optimized and scalable environment for running AI Agents. These agents can be deployed on-chain to perform autonomous tasks like data collection, decision-making, or community governance.",
+        "list": "Auto-scaling Resources: Dynamically allocate resources to ensure that AI Agents can scale according to demand, improving both performance and cost-efficiency.|Customizable Agent Workflows: Developers can easily design, deploy, and manage AI agents with tailored workflows that suit their specific use cases, from finance to healthcare.|Interoperability: Seamless interaction between AI Agents, enabling cross-chain and cross-platform collaboration to provide more comprehensive solutions."
+      },
+      "f3": {
+        "title": "Decentralized Data Storage Support",
+        "desc": "We offer a decentralized data storage solution that ensures the security, privacy, and accessibility of data. Using blockchain technology, data can be stored globally, ensuring there is no third-party intervention, and preventing data tampering or loss.",
+        "list": "Security: Data is stored with encryption, accessible only to authorized users, preventing unauthorized access and tampering.|Decentralization: Data is distributed across multiple nodes, eliminating the risk of single points of failure that come with centralized storage, improving reliability and fault tolerance.|Efficient Retrieval: Provides an efficient data retrieval mechanism, ensuring that users can quickly access the data they need from the decentralized storage system."
+      },
+      "f4": {
+        "title": "Full Support for Depin Device Integration",
+        "desc": "Our platform fully supports Depin (Decentralized Physical Infrastructure Networks) device integration, overcoming traditional hardware limitations and driving deep integration between devices and blockchain technology.",
+        "list": "Deep Integration of Hardware and Blockchain: Supports seamless connection between smart hardware and blockchain networks, enabling decentralized management and automated control of devices.|On-chain Device Data: Device-generated data is automatically uploaded to the blockchain, ensuring data authenticity, immutability, and traceability.|Self-management and Collaboration: Devices can collaborate with AI systems and other devices to enable intelligent self-management and task allocation."
+      }
+    },
+    "use": {
+      "title": "Use NAI",
+      "wallet": {
+        "title": "Wallets",
+        "desc": "NULS AI Wallets are developed by the NULS core team and the NULS Technical Community (NTC). We also provide several third-party wallets, some of which include staking capability. When using a third-party wallet you are responsible for the safety of your private key.",
+        "try": "Try Wallet"
+      },
+      "sco": {
+        "title": "SCO",
+        "desc": "The SCO platform allows NULS based projects to issue and distribute tokens safely to NULS holders using the POCM (Proof of Credit Mining) smart-contract blockchains.\n\nStake into a project's nodes and earn their token as reward, while the project earns NULS as reward. Projects can use the NULS consensus rewards to bootstrap and help fund development. Unlike IEOs and ICOs, stakers never risk their principal, and NULS never leave their wallet. Earn project tokens without risk while your device is off!",
+        "stakers": "Stakers",
+        "stakersdesc": "Stake your NULS with the project you like and start earning project tokens now. Your NULS tokens never leave your wallet, and you can turn your PC off while you earn.",
+        "stakersbtn": "Stake Now",
+        "projects": "Projects",
+        "projectsdesc": "Use the SCO Platform, to bring NULS stakers to your project and earn continuous NULS consensus rewards for project development while sharing in the NULS economy and ecology.",
+        "projectsbtn": "Project Sign-up"
+      },
+      "networks": {
+        "title": "Networks",
+        "active": "Available",
+        "type": "Network Type",
+        "rpc": "RPC",
+        "chainid": "Chain Id",
+        "symbol": "Symbol",
+        "explorer": "Explorer",
+        "chainlist": "Add on Chainlist",
+        "faucet": "Faucet"
+      },
+      "earn": {
+        "title": "Earn NAI",
+        "desc": "Our award-winning Proof of Credit (PoC) consensus mechanism secures the NULS AI network by combining Delegated Proof of Stake with an added credit rating feature. Earn NAI by staking into a node or operating a NULS AI master node.",
+        "consensus": "Consensus Staking",
+        "consensusdesc": "Stake your NAI on Consensus",
+        "sco" : "SCO Staking",
+        "scodesc": "Stake your NULS with SCO projects and earn the project tokens instead of NAI",
+        "3rd": "3rd Party Staking",
+        "3rddesc": "NAI can also be used with 3rd party platforms to earn",
+        "visit": "Visit"
+      }
+    },
+    "partners": {
+      "title": "Partners",
+      "investers": "Investers",
+      "strategic": "Strategic Partners",
+      "exchange": "Exchange / Liquidity",
+      "crossChain": "Cross-Chain Supported"
+    },
+    "legal": {
+      "title": "Legal Disclaimer",
+      "content": "The information provided by nuls.io (“we,” “us” or “our”) on nuls.io (the “Site”) does not constitute an offer to sell or purchase any product or service of any kind, nor do the contents of the site constitute legal, tax, or business advice. Certain statements on this site constitute forward-looking statements and are subject to change. When used on this site, the words “may,” “will,” “should,” “project,” “anticipate,” “believe,” “intend,” “expect,” “continue,” and similar expressions or the negatives thereof are generally intended to identify forward-looking statements. Such forward-looking statements, including the intended actions and performance objectives of NULS, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results, performance, or achievements to differ materially from any future results, performance or achievements expressed or implied by such forward-looking statements. No representation or warranty is made as to NULS, future performance, or such forward-looking statements, and all such statements speak as of the date hereof and are subject to change. The material and information contained on this site are for general information purposes only. You should not rely upon the material or information as a basis for making any business, legal or other decisions. While we endeavour to keep the information up to date and correct, NULS makes no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability, or availability with respect to our website or brochure or the information, products, services or related graphics contained in the brochure or our website for any purpose. Any reliance you place on such material is therefore strictly at your own risk."
+    },
+    "brand": {
+      "title": "Brand Assets",
+      "guide": {
+        "title": "Brand Guidelines",
+        "desc": "These guidelines describe the visual guidelines that represent NULS AI corporate identity. This includes our name, logo and other elements such as color, type and graphics.",
+        "button": "Download Brand Guidelines"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+#legal {
+  .content {
+    font-size: 16px;
+    line-height: 26px;
+    border: rgba(51, 72, 65, 0.7) solid 1px;
+    background-color: rgba(51, 72, 65, 0.3);
+    padding: 24px;
+    border-radius: 24px;
+    margin-bottom: 140px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

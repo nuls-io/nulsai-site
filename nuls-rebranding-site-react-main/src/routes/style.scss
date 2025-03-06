@@ -1,0 +1,19 @@
+#mainFramework {
+
+}
+
+#mainSider {
+
+}
+
+#mainSiderMenu {
+  height: 100%;
+}
+
+#mainContent {
+  position: relative;
+  min-height: 100vh;
+  z-index: 1;
+  width: 100%;
+  margin: auto;
+}

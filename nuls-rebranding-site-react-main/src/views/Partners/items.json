@@ -1,0 +1,109 @@
+{
+"home_support": [
+  "/partners_files/investers/BITMAIN.svg",
+  "/partners_files/investers/DWF.svg",
+  "/partners_files/investers/Ulysses.png",
+  "/partners_files/investers/ChainCapital.svg",
+  "/partners_files/investers/Waterdrip.svg",
+
+  "/partners_files/strategic-partners/Chainlink.svg",
+  "/partners_files/strategic-partners/Certik.svg",
+  "/partners_files/strategic-partners/ankr.svg",
+  "/partners_files/strategic-partners/Gecko.svg",
+  "/partners_files/strategic-partners/CMC.svg"
+],
+
+"home_exchange": [
+  "/partners_files/exchanges/Binance.svg",
+  "/partners_files/exchanges/OKX.svg",
+  "/partners_files/exchanges/Gate.svg",
+  "/partners_files/exchanges/BitMart.svg",
+  "/partners_files/exchanges/MEXC.svg"
+],
+
+"investers": [
+  "/partners_files/investers/BITMAIN.svg",
+  "/partners_files/investers/DWF.svg",
+  "/partners_files/investers/Ulysses.png",
+  "/partners_files/investers/ChainCapital.svg",
+  "/partners_files/investers/Waterdrip.svg"
+],
+
+"strategic": [
+  "/partners_files/strategic-partners/NERVE.svg",
+  "/partners_files/strategic-partners/Nabox.png",
+  "/partners_files/strategic-partners/Ape.svg",
+  "/partners_files/strategic-partners/Suisse.svg",
+  "/partners_files/strategic-partners/Gecko.svg",
+  "/partners_files/strategic-partners/CMC.svg",
+  "/partners_files/strategic-partners/CoinGecko.svg",
+  "/partners_files/strategic-partners/Chainlink.svg",
+  "/partners_files/strategic-partners/Certik.svg",
+  "/partners_files/strategic-partners/ankr.svg"
+],
+
+"exchange": [
+  "/partners_files/exchanges/Binance.svg",
+  "/partners_files/exchanges/OKX.svg",
+  "/partners_files/exchanges/Gate.svg",
+  "/partners_files/exchanges/HTX.svg",
+  "/partners_files/exchanges/BingX.svg",
+  "/partners_files/exchanges/bitvavo.svg",
+  "/partners_files/exchanges/MEXC.svg",
+  "/partners_files/exchanges/BitMart.svg",
+  "/partners_files/exchanges/CoinEx.svg",
+  "/partners_files/exchanges/NovaDAX.svg",
+  "/partners_files/exchanges/SwapBox.svg",
+  "/partners_files/exchanges/NERVESWAP.svg",
+  "/partners_files/exchanges/Nulswap.svg",
+  "/partners_files/exchanges/PheasantSwap.svg",
+  "/partners_files/exchanges/PancakeSwap.svg",
+  "/partners_files/exchanges/DODO.svg",
+  "/partners_files/exchanges/SWFT.svg"
+],
+
+"crossChain": [
+  "/partners_files/cross-chain-support/bitcoin.svg",
+  "/partners_files/cross-chain-support/Ethereum.svg",
+  "/partners_files/cross-chain-support/BNBChain.svg",
+  "/partners_files/cross-chain-support/Polygon.svg",
+  "/partners_files/cross-chain-support/OKX.svg",
+  "/partners_files/cross-chain-support/Avalanche.svg",
+  "/partners_files/cross-chain-support/Arbi.svg",
+  "/partners_files/cross-chain-support/Harmony.svg",
+  "/partners_files/cross-chain-support/KCC.svg",
+  "/partners_files/cross-chain-support/Cronos.svg",
+  "/partners_files/cross-chain-support/Fantom.svg",
+  "/partners_files/cross-chain-support/TRON.svg",
+  "/partners_files/cross-chain-support/Metis.svg",
+  "/partners_files/cross-chain-support/IoTeX.svg",
+  "/partners_files/cross-chain-support/KAIA.svg",
+  "/partners_files/cross-chain-support/smartBCH.svg",
+  "/partners_files/cross-chain-support/Op.svg",
+  "/partners_files/cross-chain-support/Kava.svg",
+  "/partners_files/cross-chain-support/EthereumPoW.svg",
+  "/partners_files/cross-chain-support/ENULS.svg",
+  "/partners_files/cross-chain-support/REI.svg",
+  "/partners_files/cross-chain-support/zkSync.svg",
+  "/partners_files/cross-chain-support/EOSEVM.svg",
+  "/partners_files/cross-chain-support/polygonzkEVM.svg",
+  "/partners_files/cross-chain-support/Linea.svg",
+  "/partners_files/cross-chain-support/CELO.svg",
+  "/partners_files/cross-chain-support/EthereumClassic.svg",
+  "/partners_files/cross-chain-support/BASE.svg",
+  "/partners_files/cross-chain-support/Scroll.svg",
+  "/partners_files/cross-chain-support/Bitgert.svg",
+  "/partners_files/cross-chain-support/Manta.svg",
+  "/partners_files/cross-chain-support/Zeta.svg",
+  "/partners_files/cross-chain-support/XLayer.svg",
+  "/partners_files/cross-chain-support/Shardeum.svg",
+  "/partners_files/cross-chain-support/MODE.svg",
+  "/partners_files/cross-chain-support/Blast.svg",
+  "/partners_files/cross-chain-support/Merlin.svg",
+  "/partners_files/cross-chain-support/Pulse.svg",
+  "/partners_files/cross-chain-support/FREECASH.svg",
+  "/partners_files/cross-chain-support/HECO.svg",
+  "/partners_files/cross-chain-support/NERVE.svg",
+  "/partners_files/cross-chain-support/BCH.svg"
+]
+}

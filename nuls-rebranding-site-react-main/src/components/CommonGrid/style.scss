@@ -1,0 +1,97 @@
+.common-grid {
+  display: grid;
+
+  .common-grid-item {
+    position: relative;
+    padding: 40px;
+    overflow: hidden;
+    outline: transparent solid 1px;
+    transition: all ease 0.3s;
+
+    &:hover {
+      outline: #fff solid 1px;
+    }
+  }
+
+  &.c1 {
+    grid-template-columns: 1fr;
+  }
+
+  &.c2 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  &.c3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  &.c5 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+
+  &.borderd {
+    .common-grid-item {
+      border-right: #333 solid 1px;
+      border-bottom: #333 solid 1px;
+    }
+
+    &.c1 {
+      .common-grid-item {
+        &:nth-child(1) {
+          border-top: #333 solid 1px;
+        }
+    
+        &:nth-child(1n + 1) {
+          border-left: #333 solid 1px;
+        }
+      }
+    }
+
+    &.c2 {
+      .common-grid-item {
+        &:nth-child(1),
+        &:nth-child(2) {
+          border-top: #333 solid 1px;
+        }
+    
+        &:nth-child(2n + 1) {
+          border-left: #333 solid 1px;
+        }
+      }
+    }
+
+    &.c3 {
+      .common-grid-item {
+        &:nth-child(1),
+        &:nth-child(2),
+        &:nth-child(3) {
+          border-top: #333 solid 1px;
+        }
+    
+        &:nth-child(3n + 1) {
+          border-left: #333 solid 1px;
+        }
+      }
+    }
+
+    &.c5 {
+      .common-grid-item {
+        &:nth-child(1),
+        &:nth-child(2),
+        &:nth-child(3),
+        &:nth-child(4),
+        &:nth-child(5) {
+          border-top: #333 solid 1px;
+        }
+    
+        &:nth-child(5n + 1) {
+          border-left: #333 solid 1px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

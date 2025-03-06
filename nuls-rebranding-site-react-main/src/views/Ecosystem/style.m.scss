@@ -1,0 +1,19 @@
+#ecosystem .tabs {
+  flex-wrap: wrap;
+  column-gap: 24px;
+}
+#ecosystem .tabs .tab {
+  font-size: 16px;
+  margin-bottom: 12px;
+  padding: 0;
+}
+#ecosystem .common-grid .content {
+  row-gap: 12px;
+}
+#ecosystem .common-grid .logo {
+  height: 32px;
+  width: 32px;
+}
+#ecosystem .common-grid .content .name {
+  font-size: 18px;
+}

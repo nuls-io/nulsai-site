@@ -1,0 +1,138 @@
+#use {
+  overflow: hidden;
+
+  .common-page-header {
+    margin-bottom: 24px;
+  }
+
+  .wallets.common-grid {
+    margin-bottom: 120px;
+
+    .common-grid-item {
+      padding: 0;
+    }
+
+    .title {
+      padding: 24px 24px 0;
+      font-size: 24px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      column-gap: 12px;
+
+      img {
+        height: 48px;
+        width: 48px;
+      }
+    }
+    .btn {
+      padding: 24px;
+    }
+  }
+
+  .scos.common-grid {
+    margin-bottom: 120px;
+
+    .desc,
+    .name {
+      margin-bottom: 24px;
+    }
+
+    .name {
+      font-size: 24px;
+      font-weight: 600;
+    }
+
+    .btn {
+      // padding: 24px;
+    }
+  }
+
+  .earns.common-grid {
+    margin-bottom: 120px;
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      row-gap: 12px;
+      height: 100%;
+
+      &>* {
+        flex-grow: 0;
+        flex-shrink: 0;
+      }
+    }
+
+    .desc {
+      flex-grow: 1;
+      flex-shrink: 1;
+    }
+
+    .title {
+      font-size: 24px;
+      font-weight: 600;
+    }
+    .btn {
+    }
+  }
+
+  .networks.common-grid {
+    margin-bottom: 120px;
+
+    .common-grid-item {
+      padding: 24px 40px;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+
+      &>* {
+        flex-grow: 0;
+        flex-shrink: 0;
+      }
+    }
+
+    .status {
+      color: var(--primary-color);
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .kvs {
+      flex-grow: 1;
+      flex-shrink: 1;
+      margin-bottom: 24px;
+    }
+
+    .name {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    .kv {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: #333 solid 1px;
+      padding: 4px 0;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      .k {
+        opacity: 0.6;
+      }
+
+      .v {
+        text-align: right;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

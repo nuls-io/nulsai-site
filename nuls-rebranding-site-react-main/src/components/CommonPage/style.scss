@@ -1,0 +1,69 @@
+.common-page {
+  min-height: 100vh;
+  background-color: #fff;
+  color: #000;
+  padding-top: 120px;
+
+  &.dark {
+    background-color: #000;
+    color: #fff;
+  }
+
+  #animebg2 {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+}
+
+.common-page-header {
+  position: relative;
+  margin-bottom: 120px;
+}
+
+.common-page-title {
+  font-size: 170px;
+  font-weight: 700;
+  line-height: 200px;
+  white-space: pre-wrap;
+}
+
+.common-page-content {
+  position: relative;
+  padding: 20px;
+  width: 100%;
+  max-width: 1440px;
+  margin: auto;
+  z-index: 9;
+}
+
+.common-page-subtitle {
+  margin-bottom: 80px;
+  display: flex;
+  justify-content: space-between;
+  
+  &-text {
+    font-size: 100px;
+    line-height: 120px;
+    white-space: pre-wrap;
+  }
+
+  &.has-extra {
+    margin-bottom: 24px;
+  }
+
+  &-extra {
+    margin-bottom: 80px;
+    max-width: 700px;
+    white-space: pre-wrap;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  @import './style.m.scss';
+}

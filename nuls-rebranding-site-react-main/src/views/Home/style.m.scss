@@ -1,0 +1,192 @@
+#homeHero > .content {
+  margin-bottom: 15vh;
+}
+#homeHero > .content img {
+  width: 100%;
+}
+#homeHero > .content .links {
+  text-align: center;
+}
+#homeHero .icons {
+  bottom: 24px;
+  left: 20px;
+  text-align: center;
+}
+
+#homeHero2 {
+  .moblielogo {
+    svg {
+      width: 100%;
+    }
+  }
+}
+
+#homeHero2 > .content {
+  padding: 25vh 12px 0 12px;
+}
+#homeHero2 .t1 {
+  width: 100%;
+  font-size: 18px;
+  line-height: 24px;
+  height: 24px;
+  font-stretch: 140%;
+  margin-top: 12px;
+}
+#homeHero2 .t2 {
+  width: 100%;
+  font-size: 14px;
+  line-height: 20px;
+  height: 20px;
+  margin-top: 12px;
+  height: auto;
+}
+#homeHero2 .links {
+  margin-top: 40px;
+}
+#homeHero2 .links button {
+  width: 150px;
+}
+#homeHero2 .exs {
+  width: calc(100vw - 48px);
+  bottom: 28px;
+}
+#homeHero2 .exs .available {
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+#homeHero2 .exs .icons img {
+  height: 32px;
+}
+#homeHero2 .exs {
+  .ant-space {
+    justify-content: center;
+    row-gap: 12px !important;
+  }
+}
+
+
+#whatis > .title {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+#whatis > .desc {
+  font-size: 16px;
+  line-height: 28px;
+  padding: 12px;
+}
+
+#aipowers > .title {
+  font-size: 32px;
+}
+#aipowers > .title .line2 {
+  margin-left: 0;
+  margin-top: 12px;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+}
+#aipowers > .card .content .info {
+  border: rgba(235, 254, 255, 0.7) solid 1px;
+  background-color: rgba(235, 254, 255, 0.8);
+  padding: 12px;
+  border-radius: 12px;
+}
+#aipowers > .card .content .inner {
+  width: 100%;
+  padding: 30px;
+}
+#aipowers > .card .content .title {
+  font-size: 32px;
+  margin-bottom: 24px;
+  line-height: 40px;
+}
+#aipowers > .card .content .description {
+  font-size: 16px;
+}
+
+
+#stats > .content > .row {
+  display: block;
+  margin-bottom: 0;
+}
+#stats > .content > .row .score {
+  width: 100%;
+  margin-bottom: 40px;
+}
+#stats > .content > .row .score .num {
+  font-size: 60px;
+}
+
+#features > .content > .pad1 .blocks {
+  display: block;
+  padding: 0;
+}
+#features > .content > .pad1 .blocks .pad1-block {
+  padding: 30px;
+  border-radius: 0 105px 0 0;
+  margin-bottom: 68px;
+}
+#features > .content > .pad1 .blocks .pad1-block .title {
+  font-size: 28px;
+  line-height: 36px;
+}
+#features > .content > .pad1 .blocks .pad1-block .content {
+  height: auto;
+}
+#features > .content > .pad1 .blocks .pad1-block:nth-child(even) {
+  transform: none;
+}
+#features > .content > .pad2 {
+  display: block;
+}
+#features > .content > .pad2 .score {
+  width: 100%;
+  margin-bottom: 40px;
+}
+#features > .content > .pad2 .score .num {
+  font-size: 60px;
+}
+
+#roadmap > .content > .map {
+  top: 180px;
+}
+#roadmap > .content > .map .nodes .node {
+  width: 100vw;
+  padding: 70px 50px 70px 50px;
+  font-size: 18px;
+  border-radius: 0 185px 0 0;
+}
+#roadmap > .content > .map .nodes .node .text {
+  margin-bottom: 12px;
+}
+
+#backers .partner-list {
+  margin-bottom: 40px;
+}
+#backers .backers-opt {
+  display: flex;
+
+  button,
+  a {
+    flex-grow: 1;
+    flex-shrink: 1;
+    width: 100%;
+    min-width: auto;
+  }
+}
+
+#news > .content > .pad2 .blogs .blog {
+  width: 300px;
+}
+#news > .content > .pad2 .blogs .blog .img {
+  height: 200px;
+}
+#news > .content > .pad2 .blogs .blog .title {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+#contact .desc {
+  font-size: 32px;
+  line-height: 48px;
+}

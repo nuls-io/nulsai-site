@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Councillor",
+    "name": "Berzeck",
+    "image": "/community_files/member6.jpg"
+  },
+  {
+    "type": "Councillor",
+    "name": "Steven",
+    "image": "/community_files/member7.jpg"
+  },
+  {
+    "type": "Councillor",
+    "name": "KangWei",
+    "image": "/community_files/member8.jpg"
+  },
+  {
+    "type": "Councillor",
+    "name": "MudiW",
+    "image": "/community_files/member14.jpg"
+  },
+  {
+    "type": "Portugal Ambassador",
+    "name": "Joao",
+    "image": "/community_files/member1.jpg"
+  },
+  {
+    "type": "Turkey Ambassador",
+    "name": "Emre",
+    "image": "/community_files/member2.jpg"
+  },
+  {
+    "type": "Brazil Ambassador",
+    "name": "Felipe Henrique",
+    "image": "/community_files/member3.jpg"
+  },
+  {
+    "type": "Vietnam Ambassador",
+    "name": "GU",
+    "image": "/community_files/member4.jpg"
+  },
+  {
+    "type": "India Ambassador",
+    "name": "Red",
+    "image": "/community_files/member5.jpg"
+  },
+  {
+    "type": "Brand Management & Communication",
+    "name": "Patric Vogel",
+    "image": "/community_files/member9.jpg"
+  },
+  {
+    "type": "Marketing Advisor",
+    "name": "Al Leong",
+    "image": "/community_files/member10.jpg"
+  },
+  {
+    "type": "Architect",
+    "name": "Kathy",
+    "image": "/community_files/member11.jpg"
+  },
+  {
+    "type": "Business Developer",
+    "name": "Essam",
+    "image": "/community_files/member12-2.jpg"
+  },
+  {
+    "type": "SCO Manager",
+    "name": "Sam",
+    "image": "/community_files/member13.jpg"
+  }
+]

@@ -1,0 +1,17 @@
+#SITE_CONTAINER {
+  height: 100%;
+
+  &>.ant-app {
+    height: 100%;
+  }
+
+}
+
+.ant-notification-notice {
+  border-radius: 8px;
+  border: var(--primary-color) solid 1px;
+
+  &.ant-notification-notice-error {
+    border-color: var(--red);
+  }
+}

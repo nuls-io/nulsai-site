@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1260px" height="568px" viewBox="0 0 1260 568" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 11</title>
+    <defs>
+        <linearGradient x1="3.14726354%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#62EC5A" offset="0%"></stop>
+            <stop stop-color="#FCBE21" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.14726354%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#62EC5A" offset="0%"></stop>
+            <stop stop-color="#FCBE21" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.14726354%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#62EC5A" offset="0%"></stop>
+            <stop stop-color="#FCBE21" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AI-NULS" transform="translate(-94.000000, -1470.000000)">
+            <g id="编组-11" transform="translate(94.000000, 1470.000000)">
+                <text id="Decentralized-AI" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="36" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="496" y="35">Decentralized AI</tspan>
+                </text>
+                <text id="Alignment-Nodes" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="542" y="126">Alignment Nodes</tspan>
+                </text>
+                <text id="Service-Marketplace" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="529.174" y="217">Service Marketplace</tspan>
+                    <tspan x="425.763" y="243">(Data,Model,interence,compute,payment)</tspan>
+                </text>
+                <text id="Compute-Network-(tra" fill="url(#linearGradient-1)" fill-rule="nonzero" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal">
+                    <tspan x="121.41" y="333">Compute Network</tspan>
+                    <tspan x="106.098" y="359">(training,RAG,agents)</tspan>
+                </text>
+                <text id="Storage-Network-(dat" fill="url(#linearGradient-2)" fill-rule="nonzero" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal">
+                    <tspan x="542.164" y="333">Storage Network</tspan>
+                    <tspan x="500.287" y="359">(datasets,models,assets)</tspan>
+                </text>
+                <text id="Data-Availability-(h" fill="url(#linearGradient-3)" fill-rule="nonzero" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal">
+                    <tspan x="968.882" y="333">Data Availability</tspan>
+                    <tspan x="892.223" y="359">(high-performance,provenance)</tspan>
+                </text>
+                <text id="Chain-(infinite-scal" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="601.565" y="448">Chain</tspan>
+                    <tspan x="536.06" y="474">(infinite scalability)</tspan>
+                </text>
+                <text id="DePin-Hardware" font-family="Inziu-Roboto-SC-Regular, Inziu Roboto SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="549" y="563">DePin Hardware</tspan>
+                </text>
+                <line x1="0.604126679" y1="510.5" x2="1259" y2="511" id="直线" stroke="#333333" stroke-linecap="square"></line>
+                <line x1="0.604126679" y1="163.5" x2="1259" y2="164" id="直线备份" stroke="#333333" stroke-linecap="square"></line>
+                <line x1="0.604126679" y1="279.5" x2="1259" y2="280" id="直线备份-3" stroke="#333333" stroke-linecap="square"></line>
+                <line x1="0.604126679" y1="395.5" x2="1259" y2="396" id="直线备份-4" stroke="#333333" stroke-linecap="square"></line>
+                <line x1="0.604126679" y1="73.5" x2="1259" y2="74" id="直线备份-2" stroke="#333333" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
