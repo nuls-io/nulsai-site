@@ -51,8 +51,8 @@ const StickyCommonButton: React.FC<CommonButtonProps & StickyElementProps> = (
   return (
     <CommonButton
       {...rest}
-      data-sticky={!isMobile ? true : undefined}
-      data-sticky-dark={dark && !isMobile ? true : undefined}
+      // data-sticky={!isMobile ? true : undefined}
+      // data-sticky-dark={dark && !isMobile ? true : undefined}
     ></CommonButton>
   )
 }

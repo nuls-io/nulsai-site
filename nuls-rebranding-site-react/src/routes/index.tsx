@@ -136,7 +136,7 @@ const routes: MibaoRouterProps[] = [
 const MainContent: React.FC = () => {
   return (
     <>
-      <StickyCursor />
+      {/* <StickyCursor /> */}
       <Layout id="mainFramework">
         <Layout>
           <Header />
