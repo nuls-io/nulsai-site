@@ -1,13 +1,13 @@
 [
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS AI Digital Identity",
     "desc": "The First AI Digital Identity Protocol with Passive Income.",
     "link": "https://id.nulsai.com/",
     "type": ["AI"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/naiNFT.jpg",
     "name": "NAI NFT",
     "desc": "The world's first NFT liquidity protocol combined with AI Agent.",
     "link": "https://www.nainft.com",
@@ -35,7 +35,7 @@
     "type": ["Infra&Tools"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Desktop Wallet",
     "desc": "NULS Desktop wallet is developed by the NULS core team for users to operate within the NULS ecosystem on desktop devices.",
     "link": "https://github.com/nuls-io/nuls-v2/releases",
@@ -49,7 +49,7 @@
     "type": ["Wallets"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Multi-signature",
     "desc": "NULS Multi-sig is a digital signature that allows multiple users to sign a single transaction within the NULS ecosystem.",
     "link": "https://docs.nuls.io/Guide/g_multiSignature_dapp_Guide.html ",
@@ -105,14 +105,14 @@
     "type": ["Wallets"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS POCM",
     "desc": "Stake your NULS with the project you like and start earning project tokens. Your NULS tokens never leave your wallet, and you can turn your PC off while you earn.",
     "link": "https://pocm.nuls.io/",
     "type": ["DeFi", "Staking"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Stake",
     "desc": "Delegate NULS on NULS main net to protect the network while receiving consensus rewards.",
     "link": "https://stake.nuls.io/",
@@ -189,7 +189,7 @@
     "type": ["Infra&Tools"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Scan",
     "desc": "NULS Scan provides functionalities such as transaction tracking, block information, address lookup, smart contract interaction, token information, network statistics, etc.",
     "link": "https://nulscan.io/",
@@ -203,14 +203,14 @@
     "type": ["Infra&Tools"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Message Crypt",
     "desc": "Secure your message with NULS Message Crypt dApp, verify important information, or identify the ownership of a blockchain account.",
     "link": "https://github.com/nuls-io/nuls-tool-message-sign",
     "type": ["Infra&Tools"]
   },
   {
-    "src": "/ecosystem_files/NULS.svg",
+    "src": "/ecosystem_files/NULS.webp",
     "name": "NULS Forum",
     "desc": "Discover the latest technical and community updates, events, and governance on NULS forum.",
     "link": "https://forum.nuls.io/",
