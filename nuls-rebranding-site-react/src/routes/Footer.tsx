@@ -38,7 +38,7 @@ const Index: React.FC<FooterProps> = (props: FooterProps) => {
       <div className="content">
         <div className="menu">
           <div className="row">
-            <Anchor href="https://d2aao3r3j2nawx.cloudfront.net/site/NULS_WhitePaper_v2.1_EN.pdf">
+            <Anchor href="https://ipfs.io/ipns/k51qzi5uqu5djmaw1vhbrpss2m7igca2vkxxpl5hrrda0rqrx0icgulwp3pio9">
               White Paper
             </Anchor>
             <Anchor href="https://nuls.medium.com/">Blog</Anchor>
