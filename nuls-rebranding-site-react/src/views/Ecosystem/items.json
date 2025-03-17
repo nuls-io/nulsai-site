@@ -8,9 +8,16 @@
   },
   {
     "src": "/ecosystem_files/naiNFT.jpg",
-    "name": "NAI NFT",
+    "name": "naiNFT",
     "desc": "The world's first NFT liquidity protocol combined with AI Agent.",
     "link": "https://www.nainft.com",
+    "type": ["AI"]
+  },
+  {
+    "src": "/ecosystem_files/naiPump.png",
+    "name": "naiPump",
+    "desc": "The Bonding Curve protocol built on the NULS network and enables AI to create Crypto digital IP",
+    "link": "https://naipump.fun",
     "type": ["AI"]
   },
   {
@@ -287,10 +294,10 @@
     "type": ["Gaming"]
   },
   {
-    "src": "/ecosystem_files/TIPTAG.svg",
-    "name": "TipTag",
+    "src": "/ecosystem_files/TagAI.jpeg",
+    "name": "TagAI",
     "desc": "A Pump social token distribution game",
-    "link": "https://enuls.tiptag.social/",
+    "link": "https://nuls.tagai.fun/",
     "type": ["Gaming"]
   },
   {
