@@ -99,17 +99,17 @@ const wallets: WalletItem[] = [
   {
     title: 'NULS Desktop Wallet',
     link: 'https://github.com/nuls-io/nuls-v2/releases',
-    image: cdnFile('/ecosystem/NULS.svg'),
+    image: cdnFile('/ecosystem_files/NULS.webp'),
   },
   {
     title: 'Nabox Wallet',
     link: 'https://nabox.io/',
-    image: cdnFile('/ecosystem/Nabox.svg'),
+    image: cdnFile('/ecosystem_files/Nabox.svg'),
   },
   {
     title: 'More Wallets',
     link: '/ecosystem?type=Wallets',
-    image: cdnFile('/ecosystem/NULS.svg'),
+    image: cdnFile('/ecosystem_files/NULS.webp'),
   },
 ]
 
