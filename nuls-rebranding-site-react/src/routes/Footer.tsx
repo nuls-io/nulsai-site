@@ -38,7 +38,7 @@ const Index: React.FC<FooterProps> = (props: FooterProps) => {
       <div className="content">
         <div className="menu">
           <div className="row">
-            <Anchor href="https://ipfs.io/ipns/k51qzi5uqu5djmaw1vhbrpss2m7igca2vkxxpl5hrrda0rqrx0icgulwp3pio9">
+            <Anchor href="https://gateway.pinata.cloud/ipfs/bafybeiel7hghuyued6duyp2tw5em2zttdadfjbhzv3sa5u3peu4y3u3aga">
               White Paper
             </Anchor>
             <Anchor href="https://nuls.medium.com/">Blog</Anchor>

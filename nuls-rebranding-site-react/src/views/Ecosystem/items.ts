@@ -10,6 +10,8 @@ export enum TabType {
   NFTs = 'NFTs',
   LaunchPad = 'LaunchPad',
   Gaming = 'Gaming',
+  Web3 = 'Web3',
+  PayFi = 'PayFi',
 }
 
 export const tabs = [
@@ -22,6 +24,8 @@ export const tabs = [
   { type: TabType.NFTs, label: 'NFTs' },
   { type: TabType.LaunchPad, label: 'LaunchPad' },
   { type: TabType.Gaming, label: 'Gaming' },
+  { type: TabType.Web3, label: 'Web3' },
+  { type: TabType.PayFi, label: 'PayFi' },
 ]
 
 export interface EcosystemItem {

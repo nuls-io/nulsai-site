@@ -21,6 +21,13 @@
     "type": ["AI"]
   },
   {
+    "src": "/ecosystem_files/naiStake.jpg",
+    "name": "naiStake",
+    "desc": "Restaking platform on the NULS network",
+    "link": "https://x.com/naistake",
+    "type": ["Staking"]
+  },
+  {
     "src": "/ecosystem_files/aiflow.png",
     "name": "AIFlow",
     "desc": "Open-source framework for BNB Chain. Deploy scalable, secure AI agents with memory, modularity, multi-modal tasks, and seamless blockchain integration.",
@@ -143,7 +150,7 @@
     "src": "/ecosystem_files/Nulswap.svg",
     "name": "Nulswap",
     "desc": "Nulswap is a decentralized exchange (DEX) and Liquidity Staking Derivatives (LSD) protocol built on the NULS blockchain.",
-    "link": "https://nulswap.com/",
+    "link": "https://app.nulswap.com",
     "type": ["DeFi", "Staking"]
   },
   {
@@ -182,15 +189,8 @@
     "type": ["Staking"]
   },
   {
-    "src": "/ecosystem_files/MyCointainer.svg",
-    "name": "MyCointainer",
-    "desc": "MyCointainer is an all-in-one licensed platform that has been running since 2018, offering a variety of ways to earn crypto.",
-    "link": "https://www.mycointainer.com/",
-    "type": ["Staking"]
-  },
-  {
     "src": "/ecosystem_files/aleph.svg",
-    "name": "aleph.im",
+    "name": "Aleph Cloud",
     "desc": "Incubated on NULS POCM platform, aleph.im is an open-source off-chain P2P network that decentralized key-value store, file storage, function execution and virtual machine provisioning.",
     "link": "https://aleph.im/ ",
     "type": ["Infra&Tools"]
@@ -238,17 +238,24 @@
     "type": ["Infra&Tools"]
   },
   {
+    "src": "/ecosystem_files/BitsFlea.jpg",
+    "name": "BitsFlea",
+    "desc": "Flea market and e-commerce platform built on the NULS AI",
+    "link": "https://www.bitsflea.com/",
+    "type": ["Infra&Tools"]
+  },
+  {
+    "src": "/ecosystem_files/parabox.png",
+    "name": "ParaBox",
+    "desc": "Batch airdrop tools, red envelope square, gift cards",
+    "link": "https://parabox.nabox.io/",
+    "type": ["Infra&Tools"]
+  },
+  {
     "src": "/ecosystem_files/IvyMaker.svg",
     "name": "IvyMaker",
     "desc": "An NFT creation and incentive platform designed for everyone - artists, creators, fans, and beyond.",
     "link": "https://ivymaker.io/",
-    "type": ["NFTs"]
-  },
-  {
-    "src": "/ecosystem_files/NiftyFuse.svg",
-    "name": "NiftyFuse",
-    "desc": "NiftyFuse is a decentralized protocol that makes NFTs deflationary via a mechanism that allows people to fuse two NFTs into 1",
-    "link": "https://niftyfuse.pt/",
     "type": ["NFTs"]
   },
   {
@@ -287,6 +294,13 @@
     "type": ["LaunchPad"]
   },
   {
+    "src": "/ecosystem_files/AlpacaMoney.jpg",
+    "name": "AlpacaMoney",
+    "desc": "The Assets Hub connecting multiple chains to 🔽#TON",
+    "link": "https://alpaca.money/",
+    "type": ["Gaming"]
+  },
+  {
     "src": "/ecosystem_files/Heroes.svg",
     "name": "Heros Battle Arena",
     "desc": "A free, play&fun multichain game inspired by the legendary 'Heroes Might and Magic', featuring AI, cash rewards & NFTs through strategic battles or lucky draws.",
@@ -298,7 +312,7 @@
     "name": "TagAI",
     "desc": "A Pump social token distribution game",
     "link": "https://nuls.tagai.fun/",
-    "type": ["Gaming"]
+    "type": ["AI"]
   },
   {
     "src": "/ecosystem_files/NFTS2ME.svg",
@@ -320,5 +334,19 @@
     "desc": "Fast, transparent, and diverse cross-chain protocols, seamlessly connecting multiple blockchains and assets, with comprehensive technical support, defining a new generation of decentralized Web3 interactions.",
     "link": "https://bridgers.xyz/",
     "type": ["DeFi"]
+  },
+  {
+    "src": "/ecosystem_files/Nabox.svg",
+    "name": "Nabox ID",
+    "desc": "Web3 identity system & task platform",
+    "link": "https://id.nabox.io/",
+    "type": ["Web3"]
+  },
+  {
+    "src": "/ecosystem_files/Nabox.svg",
+    "name": "PayBox",
+    "desc": "Payment system",
+    "link": "https://paybox.id.nabox.io/",
+    "type": ["PayFi"]
   }
 ]
