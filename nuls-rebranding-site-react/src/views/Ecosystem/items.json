@@ -16,14 +16,14 @@
   {
     "src": "/ecosystem_files/naiPump.png",
     "name": "naiPump",
-    "desc": "The Bonding Curve protocol built on the NULS network and enables AI to create Crypto digital IP",
+    "desc": "The Bonding Curve protocol built on the NULS AI network and enables AI to create Crypto digital IP",
     "link": "https://naipump.fun",
     "type": ["AI"]
   },
   {
     "src": "/ecosystem_files/naiStake.jpg",
     "name": "naiStake",
-    "desc": "Restaking platform on the NULS network",
+    "desc": "Restaking platform on the NULS AI network",
     "link": "https://x.com/naistake",
     "type": ["Staking"]
   },
@@ -50,22 +50,22 @@
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Desktop Wallet",
-    "desc": "NULS Desktop wallet is developed by the NULS core team for users to operate within the NULS ecosystem on desktop devices.",
+    "name": "NULS AI Desktop Wallet",
+    "desc": "NULS AI Desktop wallet is developed by the NULS AI core team for users to operate within the NULS AI ecosystem on desktop devices.",
     "link": "https://github.com/nuls-io/nuls-v2/releases",
     "type": ["Wallets"]
   },
   {
     "src": "/ecosystem_files/Nabox.svg",
     "name": "Nabox Wallet",
-    "desc": "Nabox is the Multi-Chain DID wallet to Web3, supporting NULS, ENULS, and the most mainstream EVM blockchains, featured in aggregation, cross-chain, swap, and more.",
+    "desc": "Nabox is the Multi-Chain DID wallet to Web3, supporting NULS AI, ENULS, and the most mainstream EVM blockchains, featured in aggregation, cross-chain, swap, and more.",
     "link": "https://nabox.io/",
     "type": ["Wallets"]
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Multi-signature",
-    "desc": "NULS Multi-sig is a digital signature that allows multiple users to sign a single transaction within the NULS ecosystem.",
+    "name": "NULS AI Multi-signature",
+    "desc": "NULS AI Multi-sig is a digital signature that allows multiple users to sign a single transaction within the NULS AI ecosystem.",
     "link": "https://docs.nuls.io/Guide/g_multiSignature_dapp_Guide.html ",
     "type": ["Wallets"]
   },
@@ -120,15 +120,15 @@
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS POCM",
-    "desc": "Stake your NULS with the project you like and start earning project tokens. Your NULS tokens never leave your wallet, and you can turn your PC off while you earn.",
+    "name": "NULS AI POCM",
+    "desc": "Stake your NAI with the project you like and start earning project tokens. Your NAI tokens never leave your wallet, and you can turn your PC off while you earn.",
     "link": "https://pocm.nuls.io/",
     "type": ["DeFi", "Staking"]
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Stake",
-    "desc": "Delegate NULS on NULS main net to protect the network while receiving consensus rewards.",
+    "name": "NULS AI Stake",
+    "desc": "Delegate NAI on NULS AI main net to protect the network while receiving consensus rewards.",
     "link": "https://stake.nuls.io/",
     "type": ["DeFi", "Staking"]
   },
@@ -149,7 +149,7 @@
   {
     "src": "/ecosystem_files/Nulswap.svg",
     "name": "Nulswap",
-    "desc": "Nulswap is a decentralized exchange (DEX) and Liquidity Staking Derivatives (LSD) protocol built on the NULS blockchain.",
+    "desc": "Nulswap is a decentralized exchange (DEX) and Liquidity Staking Derivatives (LSD) protocol built on the NULS AI blockchain.",
     "link": "https://app.nulswap.com",
     "type": ["DeFi", "Staking"]
   },
@@ -170,7 +170,7 @@
   {
     "src": "/ecosystem_files/WaterFinance.svg",
     "name": "Watertiger Finance",
-    "desc": "WaterTiger was founded to foster the growth of NULS DeFi ecosystem by enabling users to generate boosted yields on their aNswap or Nulswap LP deposits.",
+    "desc": "WaterTiger was founded to foster the growth of NULS AI DeFi ecosystem by enabling users to generate boosted yields on their aNswap or Nulswap LP deposits.",
     "link": "https://watertiger.finance/",
     "type": ["DeFi", "Staking"]
   },
@@ -184,21 +184,21 @@
   {
     "src": "/ecosystem_files/Swapbox.svg",
     "name": "SwapBox Farm",
-    "desc": "SwapBox offers yielding solutions for the NULS token where users can deposit NULS LP to earn rewards.",
+    "desc": "SwapBox offers yielding solutions for the NAI token where users can deposit NAI LP to earn rewards.",
     "link": "https://swapbox.nabox.io/l2farm",
     "type": ["Staking"]
   },
   {
     "src": "/ecosystem_files/aleph.svg",
     "name": "Aleph Cloud",
-    "desc": "Incubated on NULS POCM platform, aleph.im is an open-source off-chain P2P network that decentralized key-value store, file storage, function execution and virtual machine provisioning.",
+    "desc": "Incubated on NULS AI POCM platform, aleph.im is an open-source off-chain P2P network that decentralized key-value store, file storage, function execution and virtual machine provisioning.",
     "link": "https://aleph.im/ ",
     "type": ["Infra&Tools"]
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Scan",
-    "desc": "NULS Scan provides functionalities such as transaction tracking, block information, address lookup, smart contract interaction, token information, network statistics, etc.",
+    "name": "NULS AI Scan",
+    "desc": "NULS AI Scan provides functionalities such as transaction tracking, block information, address lookup, smart contract interaction, token information, network statistics, etc.",
     "link": "https://nulscan.io/",
     "type": ["Infra&Tools"]
   },
@@ -211,15 +211,15 @@
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Message Crypt",
-    "desc": "Secure your message with NULS Message Crypt dApp, verify important information, or identify the ownership of a blockchain account.",
+    "name": "NULS AI Message Crypt",
+    "desc": "Secure your message with NULS AI Message Crypt dApp, verify important information, or identify the ownership of a blockchain account.",
     "link": "https://github.com/nuls-io/nuls-tool-message-sign",
     "type": ["Infra&Tools"]
   },
   {
     "src": "/ecosystem_files/NULS.webp",
-    "name": "NULS Forum",
-    "desc": "Discover the latest technical and community updates, events, and governance on NULS forum.",
+    "name": "NULS AI Forum",
+    "desc": "Discover the latest technical and community updates, events, and governance on NULS AI forum.",
     "link": "https://forum.nuls.io/",
     "type": ["Infra&Tools"]
   },

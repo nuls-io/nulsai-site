@@ -49,7 +49,7 @@ const Index: React.FC<FooterProps> = (props: FooterProps) => {
             <Link to="/ecosystem?type=Wallets">Wallets</Link>
             <Link to="/ecosystem?type=Staking">Staking</Link>
             <StickyAnchor dark>SCO Platform</StickyAnchor>
-            <Anchor href="https://nulscan.io/">NULS Explorer</Anchor>
+            <Anchor href="https://nulscan.io/">NULS AI Explorer</Anchor>
             <Anchor href="https://evmscan.nuls.io/">ENULS Explorer</Anchor>
           </div>
           <div className="row">

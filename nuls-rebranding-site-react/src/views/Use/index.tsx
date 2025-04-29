@@ -97,7 +97,7 @@ interface WalletItem {
 
 const wallets: WalletItem[] = [
   {
-    title: 'NULS Desktop Wallet',
+    title: 'NULS AI Desktop Wallet',
     link: 'https://github.com/nuls-io/nuls-v2/releases',
     image: cdnFile('/ecosystem_files/NULS.webp'),
   },
@@ -247,7 +247,7 @@ const Use: React.FC = () => {
                 <div className="k">{t('networks.rpc')}</div>
                 <div className="v">
                   {network.rpcs.map((rpc, i) => (
-                    <div>{rpc}</div>
+                    <div key={i}>{rpc}</div>
                   ))}
                 </div>
               </div>
