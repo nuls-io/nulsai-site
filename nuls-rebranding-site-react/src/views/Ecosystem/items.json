@@ -168,13 +168,6 @@
     "type": ["DeFi"]
   },
   {
-    "src": "/ecosystem_files/WaterFinance.svg",
-    "name": "Watertiger Finance",
-    "desc": "WaterTiger was founded to foster the growth of NULS AI DeFi ecosystem by enabling users to generate boosted yields on their aNswap or Nulswap LP deposits.",
-    "link": "https://watertiger.finance/",
-    "type": ["DeFi", "Staking"]
-  },
-  {
     "src": "/ecosystem_files/NERVE.svg",
     "name": "NerveFarm",
     "desc": "NerveSwap is our in-house AMM solution providing secure, fast, and cheap atomic transactions. ",
@@ -305,6 +298,13 @@
     "name": "Heros Battle Arena",
     "desc": "A free, play&fun multichain game inspired by the legendary 'Heroes Might and Magic', featuring AI, cash rewards & NFTs through strategic battles or lucky draws.",
     "link": "https://heroesbattlearena.online/",
+    "type": ["Gaming"]
+  },
+  {
+    "src": "/ecosystem_files/BeastClash.png",
+    "name": "BeastClash",
+    "desc": "BeastClash revolutionizes gaming economies through blockchain tech, letting players earn value and trade freely in battle.",
+    "link": "https://game.beastclash.cn/",
     "type": ["Gaming"]
   },
   {
