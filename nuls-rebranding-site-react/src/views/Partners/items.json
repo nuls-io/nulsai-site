@@ -14,10 +14,6 @@
 ],
 
 "home_exchange": [
-  "/partners_files/exchanges/Binance.svg",
-  "/partners_files/exchanges/OKX.svg",
-  "/partners_files/exchanges/Gate.svg",
-  "/partners_files/exchanges/BitMart.svg",
   "/partners_files/exchanges/MEXC.svg"
 ],
 
@@ -43,23 +39,12 @@
 ],
 
 "exchange": [
-  "/partners_files/exchanges/Binance.svg",
-  "/partners_files/exchanges/OKX.svg",
-  "/partners_files/exchanges/Gate.svg",
+  "/partners_files/exchanges/naiPump.svg",
   "/partners_files/exchanges/HTX.svg",
-  "/partners_files/exchanges/BingX.svg",
-  "/partners_files/exchanges/bitvavo.svg",
   "/partners_files/exchanges/MEXC.svg",
-  "/partners_files/exchanges/BitMart.svg",
   "/partners_files/exchanges/CoinEx.svg",
-  "/partners_files/exchanges/NovaDAX.svg",
   "/partners_files/exchanges/SwapBox.svg",
-  "/partners_files/exchanges/NERVESWAP.svg",
-  "/partners_files/exchanges/Nulswap.svg",
-  "/partners_files/exchanges/PheasantSwap.svg",
-  "/partners_files/exchanges/PancakeSwap.svg",
-  "/partners_files/exchanges/DODO.svg",
-  "/partners_files/exchanges/SWFT.svg"
+  "/partners_files/exchanges/NERVESWAP.svg"
 ],
 
 "crossChain": [

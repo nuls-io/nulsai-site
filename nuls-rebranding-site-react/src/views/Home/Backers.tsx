@@ -18,17 +18,14 @@ const Backers: React.FC = () => {
         <List icons={home_exchange} />
         <div className="backers-opt">
           <StickyAnchor
-            href="https://www.binance.com/en/trade/NULS_USDT?type=spot"
+            href="https://naipump.fun/token/2/NULSd6HgmXExhDHAAFmN2AzSc4oAvKLRuULby"
             target="_blank"
           >
             <CommonButton size="large" dark>
               {t('buy')}
             </CommonButton>
           </StickyAnchor>
-          <StickyAnchor
-            href="https://nuls.sekai.me/#/ecosystem?type=Staking"
-            target="_blank"
-          >
+          <StickyAnchor href="/ecosystem?type=Staking" target="_blank">
             <CommonButton size="large" dark>
               {t('stake')}
             </CommonButton>

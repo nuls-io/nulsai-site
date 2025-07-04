@@ -12,7 +12,8 @@ import CommonButton from '../../components/CommonButton'
 import System from '../../store/system'
 import LogoSVG from '../../components/LogoSvg'
 
-const logos = [iconImg2, iconImg3, iconImg5]
+// const logos = [iconImg2, iconImg3, iconImg5]
+const logos = [iconImg5]
 
 const Hero: React.FC = () => {
   const { openHeader, isMobile } = System.useContainer()
