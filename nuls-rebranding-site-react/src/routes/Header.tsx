@@ -73,7 +73,7 @@ const Develop: React.FC = () => {
           </Space>
         </div>
       </HeaderExpendContentCard>
-      <HeaderExpendContentCard widthPercentage={isMobile ? undefined : 40}>
+      {/* <HeaderExpendContentCard widthPercentage={isMobile ? undefined : 40}>
         <div className="card-title">{t('enuls')}</div>
         <div className="card-desc">{t('enulsdesc')}</div>
         <div className="card-opt">
@@ -85,7 +85,7 @@ const Develop: React.FC = () => {
             </StickyAnchor>
           </Space>
         </div>
-      </HeaderExpendContentCard>
+      </HeaderExpendContentCard> */}
       <HeaderExpendContentCard widthPercentage={isMobile ? undefined : 30}>
         <div className="card-title">{t('doccenter')}</div>
         <div className="card-desc">{t('doccenterdesc')}</div>

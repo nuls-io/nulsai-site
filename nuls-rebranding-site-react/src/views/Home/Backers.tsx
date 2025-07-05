@@ -10,11 +10,10 @@ const { home_exchange, home_support } = items
 
 const Backers: React.FC = () => {
   const { t } = useTrans('backers')
-
   return (
     <div id="backers">
       <div className="content">
-        <BlackBgTitle>{t('listed')}</BlackBgTitle>
+        {/* <BlackBgTitle>{t('listed')}</BlackBgTitle>
         <List icons={home_exchange} />
         <div className="backers-opt">
           <StickyAnchor
@@ -30,7 +29,7 @@ const Backers: React.FC = () => {
               {t('stake')}
             </CommonButton>
           </StickyAnchor>
-        </div>
+        </div> */}
         <BlackBgTitle>{t('support')}</BlackBgTitle>
         <List icons={home_support} />
         <div className="backers-opt">

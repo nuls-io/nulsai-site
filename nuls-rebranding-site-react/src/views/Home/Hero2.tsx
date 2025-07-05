@@ -51,7 +51,7 @@ const Hero: React.FC = () => {
           </Space>
         </div>
       </div>
-      <div className="exs">
+      {/* <div className="exs">
         <div className="available">{t('available')}</div>
         <div className="icons">
           <Space size={isMobile ? 16 : 32} wrap={isMobile}>
@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
             ))}
           </Space>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }

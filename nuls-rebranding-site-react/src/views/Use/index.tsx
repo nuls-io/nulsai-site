@@ -140,12 +140,30 @@ const earns: EarnItem[] = [
 const Use: React.FC = () => {
   const { isMobile } = System.useContainer()
   const { t } = useTrans('use')
+  const { t: tb } = useTrans('backers')
 
   return (
     <CommonPage id="use" title={t('title')}>
       <CommonPageSubtitle extra={t('wallet.desc')}>
         {t('wallet.title')}
       </CommonPageSubtitle>
+
+      <div className="buy-or-stake">
+        <StickyAnchor
+          href="https://swapbox.nabox.io/?fromChain=NULS&from=9-220&toChain=NULS&to=1-1"
+          target="_blank"
+        >
+          <CommonButton size="large" dark>
+            {tb('buy')}
+          </CommonButton>
+        </StickyAnchor>
+        <StickyAnchor href="/ecosystem?type=Staking" target="_blank">
+          <CommonButton size="large" dark>
+            {tb('stake')}
+          </CommonButton>
+        </StickyAnchor>
+      </div>
+
       <CommonGrid
         className="wallets"
         data={wallets}
