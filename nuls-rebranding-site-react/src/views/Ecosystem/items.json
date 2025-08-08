@@ -147,13 +147,6 @@
     "type": ["DeFi"]
   },
   {
-    "src": "/ecosystem_files/Nulswap.svg",
-    "name": "Nulswap",
-    "desc": "Nulswap is a decentralized exchange (DEX) and Liquidity Staking Derivatives (LSD) protocol built on the NULS AI blockchain.",
-    "link": "https://app.nulswap.com",
-    "type": ["DeFi", "Staking"]
-  },
-  {
     "src": "/ecosystem_files/NERVE.svg",
     "name": "NerveBridge",
     "desc": "NerveBridge is a multi-chain asset cross-chain protocol that supports over 30 blockchains and 300+ tokens.",

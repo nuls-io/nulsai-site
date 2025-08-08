@@ -24,11 +24,17 @@ const AI: React.FC = () => {
             <div className="sub">{t(`ai.${i}.subtitle`)}</div>
             <div className="desc">{t(`ai.${i}.desc`)}</div>
             <div className="btn">
-              <StickyAnchor target="_blank" dark>
-                <CommonButton dark disabled>
-                  {t('coming')}
-                </CommonButton>
-              </StickyAnchor>
+              {i < 2 ? (
+                <StickyAnchor target="_blank" dark href={t(`ai.${i}.linkUrl`)}>
+                  <CommonButton dark>{t(`ai.${i}.link`)}</CommonButton>
+                </StickyAnchor>
+              ) : (
+                <StickyAnchor target="_blank" dark>
+                  <CommonButton dark disabled>
+                    {t('coming')}
+                  </CommonButton>
+                </StickyAnchor>
+              )}
             </div>
           </div>
         )}

@@ -149,12 +149,16 @@
         "0": {
           "title": "Build AI Agent",
           "subtitle": "Build an AI Agent to do what you want",
-          "desc": "Provides a library of pre-trained AI models and toolkits to enable developers to quickly deploy complex AI Agents without starting from scratch."
+          "desc": "Use AILink to easily create an AI Agent without coding to help you manage social media and groups.",
+          "link": "Learn More",
+          "linkUrl": "https://ailink.nulsai.com"
         },
         "1": {
           "title": "AI Training",
           "subtitle": "Access AI Identity to help AI training",
-          "desc": "Access AI Identity to help AI training, you can provide data feeding for some AI models and contribute to them. It can also be bound to the AI identity and become a valuable digital asset."
+          "desc": "Access AI Identity to help AI training, you can provide data feeding for some AI models and contribute to them. It can also be bound to the AI identity and become a valuable digital asset.",
+          "link": "Learn More",
+          "linkUrl": "https://id.nulsai.com"
         },
         "2": {
           "title": "Edge Computing",
